@@ -1,0 +1,31 @@
+title = "Omnilytics Coding Test"
+
+[owner]
+name = "Niyaz Bin Hashem"
+
+[integer]
+min = -999999
+max = 999999
+
+[float]
+min = -999999.0
+max = 999999.0
+decimal_min = 2
+decimal_max = 7 
+
+[alphanumeric]
+min = 8
+max = 30
+
+[alphabetical]
+min = 8
+max = 30
+
+[file]
+file_name = "output.txt"
+mode = "w"
+size = 2e+6
+
+[flask]
+host = "0.0.0.0"
+port = 5000

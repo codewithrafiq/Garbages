@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Omnilytics</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body style="font-family: 'Source Code Pro', monospace;">
+    <section class="section">
+        <div class="container">
+            <div class="columns is-mobile">
+                <div class="column is-half is-offset-one-quarter">
+
+
+                    <h1 class="title">
+                        Omnilytics Coding Test
+                    </h1>
+                    <div class="box">
+                        <button id="generate" onclick="generate()" class="button"
+                            style="font-family: 'Source Code Pro', monospace;">Generate</button>
+                        <br><br>
+
+                        <div onclick="generate()" id="progress"></div>
+                        
+                        <div id="download-file">
+                        </div>          
+
+                        <hr>
+
+                        <button onclick="report()" class="button"
+                            style="font-family: 'Source Code Pro', monospace;">Report</button>
+                        <br><br>
+
+                        
+                        <div>
+                            <p>Alphabetical Strings: <span id="alphabetic"></span></p>
+                            <p>Real numbers: <span id="float"></span></p>
+                            <p>Integers: <span id="integer"></span></p>
+                            <p>Alphanumerics: <span id="alphanumeric"></span></p>
+                        </div>
+                        
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <script>
+        function generate(){
+            document.getElementById("download-file").innerHTML= ""
+            document.getElementById("progress").innerHTML = '<progress class="progress is-small is-primary" max="100">15%</progress>'
+            fetch('/generate')
+                .then(response => response.json())
+                .then(data => {
+                    // document.getElementById("demo").innerHTML= data.filename,
+                    document.getElementById("progress").innerHTML = "",
+                    document.getElementById("download-file").innerHTML= "<a href={{ url_for('download') }}>Click to download file</a>"
+                    }
+                );
+        }
+
+
+        function report(){
+            fetch('/report')
+                .then(response => response.json())
+                .then(data => 
+                    {
+                        for (var item in data){
+                            console.log(item, data[item]);
+                            document.getElementById(item).innerHTML= data[item]
+                        }
+                    }
+                );
+        }
+    </script>
+
+
+</body>
+
+</html>

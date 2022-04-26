@@ -1,0 +1,6 @@
+version: '3'
+services:
+  djangorun:
+    image: django_docker:1.0
+    ports:
+      - "8000:8000"

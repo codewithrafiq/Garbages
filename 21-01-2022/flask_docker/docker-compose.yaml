@@ -1,0 +1,5 @@
+version: '3'
+services:
+  flaskrun:
+    image: test_flask_4
+# sudo docker run test_flask_4

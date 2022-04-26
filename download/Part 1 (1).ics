@@ -1,0 +1,106 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:CANCEL
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Bangladesh Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Tashafi Khan";RSVP=TRUE:mailto:tashaffi@altersense.com
+ATTENDEE;CN="Rashed Mahmud Ovi";RSVP=TRUE:mailto:rashed.ovi@altersense.com
+ATTENDEE;CN="Tazaki Khan";RSVP=TRUE:mailto:tazaki@altersense.com
+ATTENDEE;CN="Mohasin Miah";RSVP=TRUE:mailto:mohasin@altersense.com
+ATTENDEE;CN=andalib@altersense.com;RSVP=TRUE:mailto:andalib@altersense.com
+ATTENDEE;CN="Ferdous Bin Ali Hriday";RSVP=TRUE:mailto:ferdous@altersense.co
+	m
+ATTENDEE;CN="Rafiqul Islam";RSVP=TRUE:mailto:Rafiqul@altersense.com
+ATTENDEE;CN=shazzadul@altersense.com;RSVP=TRUE:mailto:shazzadul@altersense.
+	com
+ATTENDEE;CN=rahul@altersense.com;RSVP=TRUE:mailto:rahul@altersense.com
+ATTENDEE;CN=lamia@altersense.com;RSVP=TRUE:mailto:lamia@altersense.com
+ATTENDEE;CN="Atiq Rahman";RSVP=TRUE:mailto:atiq@altersense.com
+ATTENDEE;CN=ismatjahanantara75@gmail.com;RSVP=TRUE:mailto:ismatjahanantara7
+	5@gmail.com
+ATTENDEE;CN="Abdul Waresh";RSVP=TRUE:mailto:waresh.baki@altersense.com
+ATTENDEE;CN=saif@altersense.com;RSVP=TRUE:mailto:saif@altersense.com
+ATTENDEE;CN="Danial Azad";RSVP=TRUE:mailto:danial@altersense.com
+ATTENDEE;CN=babu@altersense.com;RSVP=TRUE:mailto:babu@altersense.com
+ATTENDEE;CN=sizan.jim@altersense.com;RSVP=TRUE:mailto:sizan.jim@altersense.
+	com
+ATTENDEE;CN=obaidur@altersense.com;RSVP=TRUE:mailto:obaidur@altersense.com
+ATTENDEE;CN=jeemaoo1998@gmail.com;RSVP=TRUE:mailto:jeemaoo1998@gmail.com
+ATTENDEE;CN=muniyakhantf@gmail.com;RSVP=TRUE:mailto:muniyakhantf@gmail.com
+CLASS:PUBLIC
+CREATED:20211208T075553Z
+DESCRIPTION:This week Lamia Mehreen\, will be conducting an interactive kno
+	wledge sharing session on the fundamentals of User experience design\, the
+	 steps involved in the process\, terms and jargons frequently used in the 
+	industry and how we can take this knowledge and apply it for the bettermen
+	t of ourselves.\n\n \n\n
+DTEND;TZID="Bangladesh Standard Time":20211209T190000
+DTSTAMP:20211208T075554Z
+DTSTART;TZID="Bangladesh Standard Time":20211209T170000
+LAST-MODIFIED:20211208T075553Z
+LOCATION:AlterSense Limited: 339/B Tejgaon I/A (Level 5)\, Dhaka 1208\, Ban
+	gladesh
+ORGANIZER;CN="Sabah Sarika":mailto:sabah@altersense.com
+PRIORITY:1
+RECURRENCE-ID;TZID="Bangladesh Standard Time":20211209T170000
+SEQUENCE:4
+SUMMARY;LANGUAGE=en-us:Canceled: User Experience Design: Fundamentals\, Ter
+	ms and Jargons and Beyond
+TRANSP:TRANSPARENT
+UID:040000008200E00074C5B7101A82E00800000000A03ED6831CE5D701000000000000000
+	01000000033E7F1CF96631649864CE676BACF1A85
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fa
+	mily:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-pri
+	ority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visited\, s
+	pan.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	te
+	xt-decoration:underline\;}\np.MsoPlainText\, li.MsoPlainText\, div.MsoPlai
+	nText\n	{mso-style-priority:99\;\n	mso-style-link:"Plain Text Char"\;\n	ma
+	rgin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-family:"C
+	alibri"\,sans-serif\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\n	{m
+	so-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margin-right:0in\;
+	\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-size:11.0pt\;\n
+		font-family:"Calibri"\,sans-serif\;}\nspan.PlainTextChar\n	{mso-style-nam
+	e:"Plain Text Char"\;\n	mso-style-priority:99\;\n	mso-style-link:"Plain Te
+	xt"\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.EmailStyle20\n	{mso-sty
+	le-type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:w
+	indowtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:1
+	0.0pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1
+	.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[i
+	f gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml
+	><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:id
+	map v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><bo
+	dy lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p cl
+	ass=MsoPlainText>This week Lamia Mehreen\, will be conducting an interacti
+	ve knowledge sharing session on the fundamentals of User experience design
+	\, the steps involved in the process\, terms and jargons frequently used i
+	n the industry and how we can take this knowledge and apply it for the bet
+	terment of ourselves.<o:p></o:p></p><p class=MsoNormal><o:p>&nbsp\;</o:p><
+	/p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:3
+X-MS-OLK-APPTSEQTIME:20211130T051414Z
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
+

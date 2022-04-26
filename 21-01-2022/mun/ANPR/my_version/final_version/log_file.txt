@@ -1,0 +1,470 @@
+12:00:02,626 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:01:18,579 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:02:53,528 werkzeug 127.0.0.1 - - [28/Mar/2021 12:02:53] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:02:55,788 werkzeug 127.0.0.1 - - [28/Mar/2021 12:02:55] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:02:58,805 werkzeug 127.0.0.1 - - [28/Mar/2021 12:02:58] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:06:38,180 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:06:45,21 werkzeug 127.0.0.1 - - [28/Mar/2021 12:06:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:06:46,495 werkzeug 127.0.0.1 - - [28/Mar/2021 12:06:46] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:06:47,449 werkzeug 127.0.0.1 - - [28/Mar/2021 12:06:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:06:48,193 werkzeug 127.0.0.1 - - [28/Mar/2021 12:06:48] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:07:42,776 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:07:46,198 werkzeug 127.0.0.1 - - [28/Mar/2021 12:07:46] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:07:51,842 werkzeug 127.0.0.1 - - [28/Mar/2021 12:07:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:07:53,152 werkzeug 127.0.0.1 - - [28/Mar/2021 12:07:53] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:07:54,221 werkzeug 127.0.0.1 - - [28/Mar/2021 12:07:54] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:08:28,1 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:11:51,893 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:12:01,780 werkzeug 127.0.0.1 - - [28/Mar/2021 12:12:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:36,796 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:16:41,901 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:41] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:44,115 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:45,366 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:46,438 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:46] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:47,148 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:47,548 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:16:47,980 werkzeug 127.0.0.1 - - [28/Mar/2021 12:16:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:17:57,216 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:17:57,969 werkzeug 127.0.0.1 - - [28/Mar/2021 12:17:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:18:00,201 werkzeug 127.0.0.1 - - [28/Mar/2021 12:18:00] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:18:01,350 werkzeug 127.0.0.1 - - [28/Mar/2021 12:18:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:18:01,810 werkzeug 127.0.0.1 - - [28/Mar/2021 12:18:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:19:41,848 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:20:04,214 werkzeug 127.0.0.1 - - [28/Mar/2021 12:20:04] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:22:09,204 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:22:11,655 werkzeug 127.0.0.1 - - [28/Mar/2021 12:22:11] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:23:39,345 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:23:44,464 werkzeug 127.0.0.1 - - [28/Mar/2021 12:23:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:21,405 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:27:26,845 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:28,469 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:28] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:29,719 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:31,253 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:31,844 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:32,295 werkzeug 127.0.0.1 - - [28/Mar/2021 12:27:32] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:27:59,629 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:28:00,692 werkzeug 127.0.0.1 - - [28/Mar/2021 12:28:00] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:28:02,971 werkzeug 127.0.0.1 - - [28/Mar/2021 12:28:02] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:33:41,738 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:33:48,341 werkzeug 127.0.0.1 - - [28/Mar/2021 12:33:48] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:33:50,599 werkzeug 127.0.0.1 - - [28/Mar/2021 12:33:50] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:34:19,328 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:34:20,825 werkzeug 127.0.0.1 - - [28/Mar/2021 12:34:20] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:34:23,626 werkzeug 127.0.0.1 - - [28/Mar/2021 12:34:23] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:37:07,940 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:37:17,659 bangla_car_plate_detection_and_recognition_api Exception on /PlateRecognition [POST]
+Traceback (most recent call last):
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+12:37:17,676 werkzeug 127.0.0.1 - - [28/Mar/2021 12:37:17] "[35m[1mPOST /PlateRecognition HTTP/1.1[0m" 500 -
+12:37:43,498 bangla_car_plate_detection_and_recognition_api Exception on /PlateRecognition [POST]
+Traceback (most recent call last):
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+12:37:43,504 werkzeug 127.0.0.1 - - [28/Mar/2021 12:37:43] "[35m[1mPOST /PlateRecognition HTTP/1.1[0m" 500 -
+12:38:27,100 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:38:29,999 werkzeug 127.0.0.1 - - [28/Mar/2021 12:38:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:40:44,286 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:40:51,706 werkzeug 127.0.0.1 - - [28/Mar/2021 12:40:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:41:22,55 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:41:26,241 werkzeug 127.0.0.1 - - [28/Mar/2021 12:41:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:42:00,61 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:42:02,670 werkzeug 127.0.0.1 - - [28/Mar/2021 12:42:02] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:42:32,83 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:43:04,811 werkzeug 127.0.0.1 - - [28/Mar/2021 12:43:04] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:45:17,786 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:45:31,87 werkzeug 127.0.0.1 - - [28/Mar/2021 12:45:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:45:47,834 werkzeug 127.0.0.1 - - [28/Mar/2021 12:45:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:46:31,104 werkzeug 127.0.0.1 - - [28/Mar/2021 12:46:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:47:29,846 werkzeug 127.0.0.1 - - [28/Mar/2021 12:47:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:47:47,373 werkzeug 127.0.0.1 - - [28/Mar/2021 12:47:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:48:00,185 werkzeug 127.0.0.1 - - [28/Mar/2021 12:48:00] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:49:03,7 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:49:04,703 werkzeug 127.0.0.1 - - [28/Mar/2021 12:49:04] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:50:18,480 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:50:19,864 werkzeug 127.0.0.1 - - [28/Mar/2021 12:50:19] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:52:58,825 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:53:07,39 werkzeug 127.0.0.1 - - [28/Mar/2021 12:53:07] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:54:13,990 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:54:20,34 werkzeug 127.0.0.1 - - [28/Mar/2021 12:54:20] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+12:56:16,604 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+12:56:21,356 werkzeug 127.0.0.1 - - [28/Mar/2021 12:56:21] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:06:01,295 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:06:10,157 werkzeug 127.0.0.1 - - [28/Mar/2021 13:06:10] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:06:11,791 werkzeug 127.0.0.1 - - [28/Mar/2021 13:06:11] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:09:16,478 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:09:35,382 werkzeug 127.0.0.1 - - [28/Mar/2021 13:09:35] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:09:36,595 werkzeug 127.0.0.1 - - [28/Mar/2021 13:09:36] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:10:09,757 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:10:12,780 werkzeug 127.0.0.1 - - [28/Mar/2021 13:10:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:10:51,167 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:11:28,198 werkzeug 127.0.0.1 - - [28/Mar/2021 13:11:28] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:11:29,416 werkzeug 127.0.0.1 - - [28/Mar/2021 13:11:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:12:14,109 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:12:17,405 werkzeug 127.0.0.1 - - [28/Mar/2021 13:12:17] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:12:42,297 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:12:45,603 werkzeug 127.0.0.1 - - [28/Mar/2021 13:12:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:13:17,731 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:13:21,827 werkzeug 127.0.0.1 - - [28/Mar/2021 13:13:21] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:14:39,733 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:14:47,508 werkzeug 127.0.0.1 - - [28/Mar/2021 13:14:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:23:48,769 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:23:50,832 werkzeug 127.0.0.1 - - [28/Mar/2021 13:23:50] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:23:52,411 werkzeug 127.0.0.1 - - [28/Mar/2021 13:23:52] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:24:43,768 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:24:46,208 werkzeug 127.0.0.1 - - [28/Mar/2021 13:24:46] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:24:47,614 werkzeug 127.0.0.1 - - [28/Mar/2021 13:24:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:25:37,510 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:25:41,928 werkzeug 127.0.0.1 - - [28/Mar/2021 13:25:41] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:25:43,435 werkzeug 127.0.0.1 - - [28/Mar/2021 13:25:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:25:44,638 werkzeug 127.0.0.1 - - [28/Mar/2021 13:25:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:25:45,974 werkzeug 127.0.0.1 - - [28/Mar/2021 13:25:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:28:08,971 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:28:12,535 werkzeug 127.0.0.1 - - [28/Mar/2021 13:28:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:29:11,649 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:29:12,178 werkzeug 127.0.0.1 - - [28/Mar/2021 13:29:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:30:31,746 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:30:36,151 werkzeug 127.0.0.1 - - [28/Mar/2021 13:30:36] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:31:32,503 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:31:35,312 werkzeug 127.0.0.1 - - [28/Mar/2021 13:31:35] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:31:50,18 werkzeug 127.0.0.1 - - [28/Mar/2021 13:31:50] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:32:37,366 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:32:37,984 werkzeug 127.0.0.1 - - [28/Mar/2021 13:32:37] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:33:07,553 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:33:08,310 werkzeug 127.0.0.1 - - [28/Mar/2021 13:33:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:35:01,417 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:35:06,449 werkzeug 127.0.0.1 - - [28/Mar/2021 13:35:06] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:35:08,284 werkzeug 127.0.0.1 - - [28/Mar/2021 13:35:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:36:15,767 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:36:16,645 werkzeug 127.0.0.1 - - [28/Mar/2021 13:36:16] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:42:19,603 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:42:36,375 werkzeug 127.0.0.1 - - [28/Mar/2021 13:42:36] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:43:50,350 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:43:55,597 werkzeug 127.0.0.1 - - [28/Mar/2021 13:43:55] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:43:56,889 werkzeug 127.0.0.1 - - [28/Mar/2021 13:43:56] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:43:57,992 werkzeug 127.0.0.1 - - [28/Mar/2021 13:43:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:44:54,703 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:44:59,420 werkzeug 127.0.0.1 - - [28/Mar/2021 13:44:59] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:45:00,626 werkzeug 127.0.0.1 - - [28/Mar/2021 13:45:00] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:45:01,525 werkzeug 127.0.0.1 - - [28/Mar/2021 13:45:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:46:03,560 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:46:07,643 werkzeug 127.0.0.1 - - [28/Mar/2021 13:46:07] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:59:52,507 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:59:55,950 bangla_car_plate_detection_and_recognition_api Exception on /PlateRecognition [POST]
+Traceback (most recent call last):
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "C:\Program Files\Python35\lib\site-packages\flask\app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+13:59:55,970 werkzeug 127.0.0.1 - - [28/Mar/2021 13:59:55] "[35m[1mPOST /PlateRecognition HTTP/1.1[0m" 500 -
+14:02:39,894 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+14:02:40,519 werkzeug 127.0.0.1 - - [28/Mar/2021 14:02:40] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:03:08,88 werkzeug 127.0.0.1 - - [28/Mar/2021 14:03:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:04:22,527 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+14:04:29,74 werkzeug 127.0.0.1 - - [28/Mar/2021 14:04:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:04:31,41 werkzeug 127.0.0.1 - - [28/Mar/2021 14:04:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:05:19,374 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+14:05:25,819 werkzeug 127.0.0.1 - - [28/Mar/2021 14:05:25] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:06:54,233 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+14:06:57,676 werkzeug 127.0.0.1 - - [28/Mar/2021 14:06:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+14:06:59,179 werkzeug 127.0.0.1 - - [28/Mar/2021 14:06:59] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:33:09,156 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+15:54:41,288 werkzeug 127.0.0.1 - - [28/Mar/2021 15:54:41] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:54:43,61 werkzeug 127.0.0.1 - - [28/Mar/2021 15:54:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:55:05,870 werkzeug 127.0.0.1 - - [28/Mar/2021 15:55:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:55:07,227 werkzeug 127.0.0.1 - - [28/Mar/2021 15:55:07] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:55:24,57 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+15:55:27,555 werkzeug 127.0.0.1 - - [28/Mar/2021 15:55:27] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:57:35,509 werkzeug 127.0.0.1 - - [28/Mar/2021 15:57:35] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:58:15,660 werkzeug 127.0.0.1 - - [28/Mar/2021 15:58:15] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:58:26,439 werkzeug 127.0.0.1 - - [28/Mar/2021 15:58:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:07:44,929 werkzeug 127.0.0.1 - - [28/Mar/2021 16:07:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:07:58,742 werkzeug 127.0.0.1 - - [28/Mar/2021 16:07:58] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:08:16,356 werkzeug 127.0.0.1 - - [28/Mar/2021 16:08:16] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:09:39,554 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:09:43,911 werkzeug 127.0.0.1 - - [28/Mar/2021 16:09:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:09:48,148 werkzeug 127.0.0.1 - - [28/Mar/2021 16:09:48] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:10:05,780 werkzeug 127.0.0.1 - - [28/Mar/2021 16:10:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:10:44,875 werkzeug 127.0.0.1 - - [28/Mar/2021 16:10:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:10:58,588 werkzeug 127.0.0.1 - - [28/Mar/2021 16:10:58] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:11:09,877 werkzeug 127.0.0.1 - - [28/Mar/2021 16:11:09] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:11:56,635 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:12:03,83 werkzeug 127.0.0.1 - - [28/Mar/2021 16:12:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:12:08,272 werkzeug 127.0.0.1 - - [28/Mar/2021 16:12:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:12:55,614 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:13:02,57 werkzeug 127.0.0.1 - - [28/Mar/2021 16:13:02] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:13:16,252 werkzeug 127.0.0.1 - - [28/Mar/2021 16:13:16] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:13:47,748 werkzeug 127.0.0.1 - - [28/Mar/2021 16:13:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:24:41,758 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:24:57,241 werkzeug 127.0.0.1 - - [28/Mar/2021 16:24:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:41:18,364 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:41:26,273 werkzeug 127.0.0.1 - - [28/Mar/2021 16:41:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:42:05,130 werkzeug 127.0.0.1 - - [28/Mar/2021 16:42:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:42:17,592 werkzeug 127.0.0.1 - - [28/Mar/2021 16:42:17] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:42:51,188 werkzeug 127.0.0.1 - - [28/Mar/2021 16:42:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:44:19,252 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:44:30,936 werkzeug 127.0.0.1 - - [28/Mar/2021 16:44:30] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:45:23,970 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:45:32,131 werkzeug 127.0.0.1 - - [28/Mar/2021 16:45:32] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:46:30,953 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:46:42,177 werkzeug 127.0.0.1 - - [28/Mar/2021 16:46:42] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:47:07,860 werkzeug 127.0.0.1 - - [28/Mar/2021 16:47:07] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:47:53,263 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:48:03,22 werkzeug 127.0.0.1 - - [28/Mar/2021 16:48:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:02:26,94 werkzeug 127.0.0.1 - - [28/Mar/2021 17:02:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:03:59,792 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+17:04:08,704 werkzeug 127.0.0.1 - - [28/Mar/2021 17:04:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:04:52,672 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+17:05:01,868 werkzeug 127.0.0.1 - - [28/Mar/2021 17:05:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:05:17,91 werkzeug 127.0.0.1 - - [28/Mar/2021 17:05:17] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:05:33,241 werkzeug 127.0.0.1 - - [28/Mar/2021 17:05:33] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:05:47,82 werkzeug 127.0.0.1 - - [28/Mar/2021 17:05:47] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:05:57,295 werkzeug 127.0.0.1 - - [28/Mar/2021 17:05:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:06:11,528 werkzeug 127.0.0.1 - - [28/Mar/2021 17:06:11] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:06:26,14 werkzeug 127.0.0.1 - - [28/Mar/2021 17:06:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:06:42,844 werkzeug 127.0.0.1 - - [28/Mar/2021 17:06:42] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:07:01,142 werkzeug 127.0.0.1 - - [28/Mar/2021 17:07:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:07:13,906 werkzeug 127.0.0.1 - - [28/Mar/2021 17:07:13] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:07:24,200 werkzeug 127.0.0.1 - - [28/Mar/2021 17:07:24] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:07:35,459 werkzeug 127.0.0.1 - - [28/Mar/2021 17:07:35] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:08:13,998 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+17:08:45,976 werkzeug 127.0.0.1 - - [28/Mar/2021 17:08:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:08:58,539 werkzeug 127.0.0.1 - - [28/Mar/2021 17:08:58] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:09:11,5 werkzeug 127.0.0.1 - - [28/Mar/2021 17:09:11] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:09:23,437 werkzeug 127.0.0.1 - - [28/Mar/2021 17:09:23] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:09:53,222 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+17:10:02,291 werkzeug 127.0.0.1 - - [28/Mar/2021 17:10:02] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:10:12,980 werkzeug 127.0.0.1 - - [28/Mar/2021 17:10:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:10:24,517 werkzeug 127.0.0.1 - - [28/Mar/2021 17:10:24] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:10:34,581 werkzeug 127.0.0.1 - - [28/Mar/2021 17:10:34] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:10:49,260 werkzeug 127.0.0.1 - - [28/Mar/2021 17:10:49] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:11:04,31 werkzeug 127.0.0.1 - - [28/Mar/2021 17:11:04] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:11:15,15 werkzeug 127.0.0.1 - - [28/Mar/2021 17:11:15] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:11:27,319 werkzeug 127.0.0.1 - - [28/Mar/2021 17:11:27] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:11:39,698 werkzeug 127.0.0.1 - - [28/Mar/2021 17:11:39] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:11:51,60 werkzeug 127.0.0.1 - - [28/Mar/2021 17:11:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:12:00,881 werkzeug 127.0.0.1 - - [28/Mar/2021 17:12:00] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:12:12,870 werkzeug 127.0.0.1 - - [28/Mar/2021 17:12:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:37:40,667 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:40:23,660 werkzeug 127.0.0.1 - - [29/Mar/2021 11:40:23] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:40:37,908 werkzeug 127.0.0.1 - - [29/Mar/2021 11:40:37] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:40:52,515 werkzeug 127.0.0.1 - - [29/Mar/2021 11:40:52] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:41:10,555 werkzeug 127.0.0.1 - - [29/Mar/2021 11:41:10] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:41:26,907 werkzeug 127.0.0.1 - - [29/Mar/2021 11:41:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:41:38,888 werkzeug 127.0.0.1 - - [29/Mar/2021 11:41:38] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:41:52,251 werkzeug 127.0.0.1 - - [29/Mar/2021 11:41:52] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:42:05,406 werkzeug 127.0.0.1 - - [29/Mar/2021 11:42:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:42:19,113 werkzeug 127.0.0.1 - - [29/Mar/2021 11:42:19] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:42:33,94 werkzeug 127.0.0.1 - - [29/Mar/2021 11:42:33] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:42:44,31 werkzeug 127.0.0.1 - - [29/Mar/2021 11:42:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:42:55,868 werkzeug 127.0.0.1 - - [29/Mar/2021 11:42:55] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:43:23,161 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:43:32,186 werkzeug 127.0.0.1 - - [29/Mar/2021 11:43:32] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:43:45,427 werkzeug 127.0.0.1 - - [29/Mar/2021 11:43:45] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:44:04,207 werkzeug 127.0.0.1 - - [29/Mar/2021 11:44:04] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:44:37,828 werkzeug 127.0.0.1 - - [29/Mar/2021 11:44:37] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:44:49,811 werkzeug 127.0.0.1 - - [29/Mar/2021 11:44:49] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:45:06,641 werkzeug 127.0.0.1 - - [29/Mar/2021 11:45:06] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:45:20,696 werkzeug 127.0.0.1 - - [29/Mar/2021 11:45:20] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:45:31,647 werkzeug 127.0.0.1 - - [29/Mar/2021 11:45:31] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:47:50,542 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:48:13,163 werkzeug 127.0.0.1 - - [29/Mar/2021 11:48:13] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:48:28,219 werkzeug 127.0.0.1 - - [29/Mar/2021 11:48:28] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:48:44,818 werkzeug 127.0.0.1 - - [29/Mar/2021 11:48:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:49:16,82 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:49:26,643 werkzeug 127.0.0.1 - - [29/Mar/2021 11:49:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:00,683 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:50:12,568 werkzeug 127.0.0.1 - - [29/Mar/2021 11:50:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:51:52,828 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:52:03,949 werkzeug 127.0.0.1 - - [29/Mar/2021 11:52:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:52:48,183 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:52:56,617 werkzeug 127.0.0.1 - - [29/Mar/2021 11:52:56] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:53:28,903 werkzeug 127.0.0.1 - - [29/Mar/2021 11:53:28] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:53:51,686 werkzeug 127.0.0.1 - - [29/Mar/2021 11:53:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:08:04,940 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+13:08:21,264 werkzeug 127.0.0.1 - - [29/Mar/2021 13:08:21] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:08:50,465 werkzeug 127.0.0.1 - - [29/Mar/2021 13:08:50] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:09:12,804 werkzeug 127.0.0.1 - - [29/Mar/2021 13:09:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:09:29,414 werkzeug 127.0.0.1 - - [29/Mar/2021 13:09:29] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:10:25,755 werkzeug 127.0.0.1 - - [29/Mar/2021 13:10:25] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:11:07,666 werkzeug 127.0.0.1 - - [29/Mar/2021 13:11:07] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:11:28,341 werkzeug 127.0.0.1 - - [29/Mar/2021 13:11:28] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:11:41,722 werkzeug 127.0.0.1 - - [29/Mar/2021 13:11:41] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:11:53,420 werkzeug 127.0.0.1 - - [29/Mar/2021 13:11:53] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:12:03,774 werkzeug 127.0.0.1 - - [29/Mar/2021 13:12:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:13:23,293 werkzeug 127.0.0.1 - - [29/Mar/2021 13:13:23] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:14:19,113 werkzeug 127.0.0.1 - - [29/Mar/2021 13:14:19] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:14:42,562 werkzeug 127.0.0.1 - - [29/Mar/2021 13:14:42] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:15:15,603 werkzeug 127.0.0.1 - - [29/Mar/2021 13:15:15] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:20:26,978 werkzeug 127.0.0.1 - - [29/Mar/2021 13:20:26] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:20:59,652 werkzeug 127.0.0.1 - - [29/Mar/2021 13:20:59] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:21:16,984 werkzeug 127.0.0.1 - - [29/Mar/2021 13:21:16] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:22:34,837 werkzeug 127.0.0.1 - - [29/Mar/2021 13:22:34] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:23:13,714 werkzeug 127.0.0.1 - - [29/Mar/2021 13:23:13] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:36:51,915 werkzeug 127.0.0.1 - - [29/Mar/2021 13:36:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:37:08,479 werkzeug 127.0.0.1 - - [29/Mar/2021 13:37:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:37:33,128 werkzeug 127.0.0.1 - - [29/Mar/2021 13:37:33] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:37:51,91 werkzeug 127.0.0.1 - - [29/Mar/2021 13:37:51] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+13:38:03,473 werkzeug 127.0.0.1 - - [29/Mar/2021 13:38:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:33:57,286 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:53:30,737 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:56:19,362 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:57:12,806 werkzeug 127.0.0.1 - - [29/Mar/2021 16:57:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:57:59,963 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:58:05,25 werkzeug 127.0.0.1 - - [29/Mar/2021 16:58:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+17:53:55,389 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+17:54:05,258 werkzeug 127.0.0.1 - - [29/Mar/2021 17:54:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:48:49,216 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:49:39,287 werkzeug 127.0.0.1 - - [31/Mar/2021 11:49:39] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:49:41,23 werkzeug 127.0.0.1 - - [31/Mar/2021 11:49:41] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:17,893 werkzeug 127.0.0.1 - - [31/Mar/2021 11:50:17] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:19,298 werkzeug 127.0.0.1 - - [31/Mar/2021 11:50:19] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:20,336 werkzeug 127.0.0.1 - - [31/Mar/2021 11:50:20] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:21,730 werkzeug 127.0.0.1 - - [31/Mar/2021 11:50:21] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:50:52,519 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:50:59,439 werkzeug 127.0.0.1 - - [31/Mar/2021 11:50:59] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:51:01,166 werkzeug 127.0.0.1 - - [31/Mar/2021 11:51:01] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:51:37,821 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:51:43,311 werkzeug 127.0.0.1 - - [31/Mar/2021 11:51:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:52:41,777 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:52:57,578 werkzeug 127.0.0.1 - - [31/Mar/2021 11:52:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:52:59,53 werkzeug 127.0.0.1 - - [31/Mar/2021 11:52:59] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:53:09,446 werkzeug 127.0.0.1 - - [31/Mar/2021 11:53:09] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:53:10,886 werkzeug 127.0.0.1 - - [31/Mar/2021 11:53:10] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:53:12,446 werkzeug 127.0.0.1 - - [31/Mar/2021 11:53:12] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:55:30,863 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:55:40,700 werkzeug 127.0.0.1 - - [31/Mar/2021 11:55:40] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:55:42,176 werkzeug 127.0.0.1 - - [31/Mar/2021 11:55:42] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:55:43,559 werkzeug 127.0.0.1 - - [31/Mar/2021 11:55:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:56:18,364 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:57:14,500 werkzeug 127.0.0.1 - - [31/Mar/2021 11:57:14] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:57:52,107 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:58:14,190 werkzeug 127.0.0.1 - - [31/Mar/2021 11:58:14] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:58:35,676 werkzeug 127.0.0.1 - - [31/Mar/2021 11:58:35] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:28:52,54 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+11:30:03,418 werkzeug 127.0.0.1 - - [01/Apr/2021 11:30:03] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+11:30:24,149 werkzeug 127.0.0.1 - - [01/Apr/2021 11:30:24] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:21:30,328 werkzeug  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+16:22:05,106 werkzeug 127.0.0.1 - - [03/Apr/2021 16:22:05] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:23:44,95 werkzeug 127.0.0.1 - - [03/Apr/2021 16:23:44] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:24:08,50 werkzeug 127.0.0.1 - - [03/Apr/2021 16:24:08] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:24:22,78 werkzeug 127.0.0.1 - - [03/Apr/2021 16:24:22] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:24:50,377 werkzeug 127.0.0.1 - - [03/Apr/2021 16:24:50] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:25:15,303 werkzeug 127.0.0.1 - - [03/Apr/2021 16:25:15] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:25:43,364 werkzeug 127.0.0.1 - - [03/Apr/2021 16:25:43] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+16:25:57,180 werkzeug 127.0.0.1 - - [03/Apr/2021 16:25:57] "[37mPOST /PlateRecognition HTTP/1.1[0m" 200 -
+15:28:56,147 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+15:28:56,147 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+15:28:56,148 werkzeug  * Restarting with stat
+15:28:58,80 werkzeug  * Debugger is active!
+15:28:58,113 werkzeug  * Debugger PIN: 107-035-872
+15:29:41,511 werkzeug 127.0.0.1 - - [28/Nov/2021 15:29:41] "[33mGET / HTTP/1.1[0m" 404 -
+15:29:41,582 werkzeug 127.0.0.1 - - [28/Nov/2021 15:29:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+16:23:45,474 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+16:23:45,474 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+16:23:45,475 werkzeug  * Restarting with stat
+16:23:47,404 werkzeug  * Debugger is active!
+16:23:47,404 werkzeug  * Debugger PIN: 107-035-872
+16:23:59,581 werkzeug 127.0.0.1 - - [28/Nov/2021 16:23:59] "[33mGET / HTTP/1.1[0m" 404 -
+16:24:00,26 werkzeug 127.0.0.1 - - [28/Nov/2021 16:24:00] "[33mGET / HTTP/1.1[0m" 404 -
+16:24:00,215 werkzeug 127.0.0.1 - - [28/Nov/2021 16:24:00] "[33mGET / HTTP/1.1[0m" 404 -
+16:24:00,374 werkzeug 127.0.0.1 - - [28/Nov/2021 16:24:00] "[33mGET / HTTP/1.1[0m" 404 -
+16:24:00,526 werkzeug 127.0.0.1 - - [28/Nov/2021 16:24:00] "[33mGET / HTTP/1.1[0m" 404 -
+18:21:39,696 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+18:21:39,696 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+18:21:39,697 werkzeug  * Restarting with stat
+18:21:41,467 werkzeug  * Debugger is active!
+18:21:41,468 werkzeug  * Debugger PIN: 107-035-872
+18:21:42,659 werkzeug 192.168.100.201 - - [28/Nov/2021 18:21:42] "[33mGET / HTTP/1.1[0m" 404 -
+18:23:24,999 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_v2_car_plate_detection_and_recognition.py', reloading
+18:23:25,283 werkzeug  * Restarting with stat
+18:23:30,660 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+18:23:30,660 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+18:23:30,661 werkzeug  * Restarting with stat
+18:23:32,654 werkzeug  * Debugger is active!
+18:23:32,655 werkzeug  * Debugger PIN: 107-035-872
+18:24:30,243 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_car_plate_detection_and_recognition_api.py', reloading
+18:24:30,481 werkzeug  * Restarting with stat
+18:24:32,507 werkzeug  * Debugger is active!
+18:24:32,507 werkzeug  * Debugger PIN: 107-035-872
+10:14:31,715 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+10:14:31,715 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+10:14:31,716 werkzeug  * Restarting with stat
+10:14:33,657 werkzeug  * Debugger is active!
+10:14:33,687 werkzeug  * Debugger PIN: 265-549-711
+10:15:01,901 werkzeug 127.0.0.1 - - [29/Nov/2021 10:15:01] "[33mGET / HTTP/1.1[0m" 404 -
+10:15:01,956 werkzeug 127.0.0.1 - - [29/Nov/2021 10:15:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10:16:19,400 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'Apple\x00'
+10:16:19,400 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'iPhone 5s\x00'
+10:16:19,400 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+10:16:19,400 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 150 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+10:16:19,400 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 158 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+10:16:19,400 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+10:16:19,400 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 166 - value: b'9.3.1\x00'
+10:16:19,400 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2016:04:09 11:09:38\x00'
+10:16:19,400 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+10:16:19,400 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+10:23:54,542 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+10:23:54,542 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+10:23:54,543 werkzeug  * Restarting with stat
+10:23:56,206 werkzeug  * Debugger is active!
+10:23:56,206 werkzeug  * Debugger PIN: 265-549-711
+10:30:58,187 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_v2_car_plate_detection_and_recognition.py', reloading
+10:30:58,458 werkzeug  * Restarting with stat
+10:31:00,158 werkzeug  * Debugger is active!
+10:31:00,158 werkzeug  * Debugger PIN: 265-549-711
+10:31:10,460 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/modules/plate_detection.py', reloading
+10:31:10,738 werkzeug  * Restarting with stat
+10:31:12,542 werkzeug  * Debugger is active!
+10:31:12,542 werkzeug  * Debugger PIN: 265-549-711
+10:31:24,896 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_v2_car_plate_detection_and_recognition.py', reloading
+10:31:25,123 werkzeug  * Restarting with stat
+10:31:26,882 werkzeug  * Debugger is active!
+10:31:26,882 werkzeug  * Debugger PIN: 265-549-711
+10:31:32,42 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_v2_car_plate_detection_and_recognition.py', reloading
+10:31:32,267 werkzeug  * Restarting with stat
+10:31:34,19 werkzeug  * Debugger is active!
+10:31:34,20 werkzeug  * Debugger PIN: 265-549-711
+10:31:41,267 werkzeug  * Detected change in '/home/rafiq/ANPR/my_version/final_version/bangla_v2_car_plate_detection_and_recognition.py', reloading
+10:31:41,494 werkzeug  * Restarting with stat
+10:31:43,253 werkzeug  * Debugger is active!
+10:31:43,254 werkzeug  * Debugger PIN: 265-549-711
+10:35:02,836 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+10:35:02,836 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+10:35:02,836 werkzeug  * Restarting with stat
+10:35:04,566 werkzeug  * Debugger is active!
+10:35:04,567 werkzeug  * Debugger PIN: 265-549-711
+10:35:08,230 werkzeug 192.168.100.160 - - [29/Nov/2021 10:35:08] "POST //PlateRecognition HTTP/1.1" 200 -
+12:12:09,414 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+12:12:09,414 werkzeug  * Running on http://192.168.100.201:5000/ (Press CTRL+C to quit)
+12:12:09,415 werkzeug  * Restarting with stat
+12:12:11,220 werkzeug  * Debugger is active!
+12:12:11,220 werkzeug  * Debugger PIN: 265-549-711
+12:12:14,577 werkzeug 192.168.100.201 - - [29/Nov/2021 12:12:14] "POST /PlateRecognition HTTP/1.1" 200 -

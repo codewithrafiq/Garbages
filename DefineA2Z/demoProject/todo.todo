@@ -1,0 +1,14 @@
+# All district Location
+python manage.py ogrinspect bgd_adm_bbs_20201113_SHP/bgd_admbndp_admALL_bbs_itos_20201113.shp Area --srid=4326 --mapping --multi
+----------------
+
+
+https://docs.djangoproject.com/en/4.0/ref/contrib/gis/install/geolibs/
+
+https://askubuntu.com/questions/1321141/unable-to-install-mysqlclient-on-ubuntu-20-10
+
+
+
+MySql db max_allowed_packet
+show variables like 'max_allowed_packet'
+set global max_allowed_packet=33554432

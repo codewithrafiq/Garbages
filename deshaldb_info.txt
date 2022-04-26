@@ -1,0 +1,17 @@
+db name = deshaldb
+username = deshaladmin
+password = deshal__2022
+
+Master username
+deshaladmin
+Master password
+deshal__2022Copyz
+
+
+
+
+
+
+host name = deshaldb.cjqrpwchhcwp.ap-southeast-1.rds.amazonaws.com
+
+port = 3306

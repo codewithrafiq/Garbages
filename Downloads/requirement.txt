@@ -1,0 +1,3 @@
+bcolz
+opencv-python
+tensorlow

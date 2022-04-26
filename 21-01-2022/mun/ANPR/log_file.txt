@@ -1,0 +1,200 @@
+12:04:06,330 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+12:04:06,330 werkzeug  * Running on http://192.168.100.204:5000/ (Press CTRL+C to quit)
+12:07:58,933 PIL.TiffImagePlugin tag: GPSInfoIFD (34853) - type: long (4) - value: b'\x00\x00\x03\xf9'
+12:07:58,933 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 122 - value: b'LG-D856\x00'
+12:07:58,933 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+12:07:58,933 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+12:07:58,933 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 130 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:07:58,933 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+12:07:58,933 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xa1'
+12:07:58,933 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 106 - Data Location: 138 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:07:58,933 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 146 - value: b'LG Electronics\x00'
+12:09:22,295 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'Apple\x00'
+12:09:22,296 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'iPhone 5s\x00'
+12:09:22,296 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+12:09:22,296 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 150 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:09:22,296 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 158 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:09:22,296 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+12:09:22,296 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 166 - value: b'9.3.1\x00'
+12:09:22,296 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2016:04:09 11:09:38\x00'
+12:09:22,296 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+12:09:22,296 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+12:10:20,392 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'Apple\x00'
+12:10:20,392 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'iPhone 5s\x00'
+12:10:20,392 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+12:10:20,392 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 150 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:10:20,392 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 158 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:10:20,392 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+12:10:20,392 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 166 - value: b'9.3.1\x00'
+12:10:20,392 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2016:04:09 11:09:38\x00'
+12:10:20,392 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+12:10:20,392 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+12:13:11,979 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 22 - Data Location: 134 - value: b'Apple\x00'
+12:13:11,979 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 34 - Data Location: 140 - value: b'iPhone 5s\x00'
+12:13:11,979 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+12:13:11,979 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 58 - Data Location: 150 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:13:11,979 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 70 - Data Location: 158 - value: b'\x00\x00\x00H\x00\x00\x00\x01'
+12:13:11,979 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+12:13:11,979 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 94 - Data Location: 166 - value: b'9.3.1\x00'
+12:13:11,979 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 106 - Data Location: 172 - value: b'2016:04:09 11:09:38\x00'
+12:13:11,979 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x00\x01'
+12:13:11,979 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xc0'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:59:25\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:17:02,121 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:17:36,561 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 15:01:51\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:17:36,562 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:18:29,45 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:57:26\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:18:29,46 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:57:26\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:20:27,334 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:46,438 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:57:26\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:20:46,439 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:21:52,198 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:57:26\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+12:21:52,199 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (544) - type: long (4) - value: b'\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (545) - type: long (4) - value: b'\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (546) - type: long (4) - value: b'\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (547) - type: long (4) - value: b'\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (548) - type: long (4) - value: b'\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: unknown (549) - type: string (2) Tag Location: 82 - Data Location: 218 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: ImageDescription (270) - type: string (2) Tag Location: 106 - Data Location: 250 - value: b'\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: Make (271) - type: string (2) Tag Location: 118 - Data Location: 282 - value: b'Xiaomi\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+10:26:45,268 PIL.TiffImagePlugin tag: Model (272) - type: string (2) Tag Location: 130 - Data Location: 314 - value: b'M2006C3LI\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: Software (305) - type: string (2) Tag Location: 142 - Data Location: 346 - value: b'MediaTek Camera Application\x00\x00\x00\x00\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: DateTime (306) - type: string (2) Tag Location: 166 - Data Location: 378 - value: b'2021:11:07 14:57:26\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: YCbCrPositioning (531) - type: short (3) - value: b'\x02\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: ExifIFD (34665) - type: long (4) - value: b'\x9e\x01\x00\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: XResolution (282) - type: rational (5) Tag Location: 202 - Data Location: 398 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+10:26:45,276 PIL.TiffImagePlugin tag: YResolution (283) - type: rational (5) Tag Location: 214 - Data Location: 406 - value: b'H\x00\x00\x00\x01\x00\x00\x00'
+10:27:13,692 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+10:27:13,693 werkzeug  * Running on http://192.168.100.204:5000/ (Press CTRL+C to quit)
+10:29:32,407 werkzeug  * Restarting with stat
+10:29:39,80 werkzeug  * Debugger is active!
+10:29:39,81 werkzeug  * Debugger PIN: 117-620-203
+10:29:39,267 werkzeug  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+10:29:39,268 werkzeug  * Running on http://192.168.100.204:5000/ (Press CTRL+C to quit)
+10:30:28,881 werkzeug  * Detected change in 'c:\\Users\\Asus\\Desktop\\Helios\\code\\ANPR\\my_version\\final_version\\bangla_car_plate_detection_and_recognition_api.py', reloading
+10:30:30,38 werkzeug  * Restarting with stat
+10:30:42,490 werkzeug  * Restarting with stat
+10:30:49,58 werkzeug  * Debugger is active!
+10:30:49,70 werkzeug  * Debugger PIN: 117-620-203
+10:30:49,254 werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:31:00,135 werkzeug 127.0.0.1 - - [24/Nov/2021 10:31:00] "[33mGET / HTTP/1.1[0m" 404 -
+10:31:00,289 werkzeug 127.0.0.1 - - [24/Nov/2021 10:31:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+10:32:18,624 werkzeug 127.0.0.1 - - [24/Nov/2021 10:32:18] "POST /PlateRecognition HTTP/1.1" 200 -
+10:35:21,308 werkzeug  * Detected change in 'c:\\Users\\Asus\\Desktop\\Helios\\code\\ANPR\\my_version\\final_version\\bangla_car_plate_detection_and_recognition_api.py', reloading
+10:35:25,308 werkzeug  * Restarting with stat
+10:35:31,790 werkzeug  * Debugger is active!
+10:35:31,798 werkzeug  * Debugger PIN: 117-620-203
+10:35:32,61 werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:35:34,700 werkzeug  * Detected change in 'c:\\Users\\Asus\\Desktop\\Helios\\code\\ANPR\\my_version\\final_version\\bangla_car_plate_detection_and_recognition_api.py', reloading
+10:35:35,251 werkzeug  * Restarting with stat
+10:35:51,46 werkzeug  * Restarting with stat
+10:36:03,11 werkzeug  * Debugger is active!
+10:36:03,37 werkzeug  * Debugger PIN: 117-620-203
+10:36:03,770 werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:37:16,936 werkzeug  * Restarting with stat
+10:37:29,930 werkzeug  * Debugger is active!
+10:37:29,954 werkzeug  * Debugger PIN: 117-620-203
+10:37:30,631 werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:37:57,122 werkzeug 127.0.0.1 - - [24/Nov/2021 10:37:57] "POST /PlateRecognition HTTP/1.1" 200 -
+16:44:39,41 werkzeug  * Restarting with stat
+16:44:44,593 werkzeug  * Debugger is active!
+16:44:44,598 werkzeug  * Debugger PIN: 117-620-203
+16:44:44,814 werkzeug  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+16:45:26,846 werkzeug 127.0.0.1 - - [24/Nov/2021 16:45:26] "POST /PlateRecognition HTTP/1.1" 200 -

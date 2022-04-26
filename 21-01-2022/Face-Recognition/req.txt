@@ -1,0 +1,4 @@
+fastapi
+tensorflow-gpu
+opencv-python
+uvicorn

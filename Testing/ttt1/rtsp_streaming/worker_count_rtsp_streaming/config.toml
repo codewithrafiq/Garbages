@@ -1,0 +1,13 @@
+ttile = "Worker Count RTSP Stream"
+
+[rtsp]
+#url = "/home/rafiq/AlterSense/Helios_G/rtsp_streaming/worker_count_rtsp_streaming/vid.mp4"
+url = "/home/rafiq/AlterSense/Helios_G/rtsp_streaming/worker_count_rtsp_streaming/Untitled.mp4"
+#url = "/home/rafiq/AlterSense/Helios_G/rtsp_streaming/worker_count_rtsp_streaming/b2b.mp4"
+#url = "rtsp://admin:Admin2020@202.74.243.147:554/trackID=5"
+
+
+
+[netgear]
+ip = "192.168.1.233"
+port = 5002

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <h1>Image Classification using keras mobilenetv2</h1>
+    </div>
+    <br>
+    <div>
+        <form action="/file" enctype="multipart/form-data" method="post">
+            <div class="form-group">
+                <label for="exampleInputEmail1">Select a Image </label>
+                <input class="form-control form-control-lg" name="file" id="formFileLg" placeholder="Select a Car Image"
+                    type="file">
+            </div>
+            <div class="form-group">
+                <input class="form-control form-control-lg btn btn-lg btn-success my-3" type="submit">
+            </div>
+        </form>
+    </div>
+    <br>
+    <div>
+        {% if file_name %}
+        <img src={{file_name}} alt="">
+        {% endif %}
+        <br>
+        {% if clissify %}
+        <div>
+            {% for k,v in clissify.items() %}
+            <h4>{{k}} : {{v}}</h4>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</body>
+
+</html>

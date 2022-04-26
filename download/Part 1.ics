@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Bangladesh Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0600
+TZOFFSETTO:+0600
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="Tashafi Khan";RSVP=TRUE:mailto:tashaffi@altersense.com
+ATTENDEE;CN=rashed.ovi@altersense.com;RSVP=TRUE:mailto:rashed.ovi@altersens
+	e.com
+ATTENDEE;CN="Tazaki Khan";RSVP=TRUE:mailto:tazaki@altersense.com
+ATTENDEE;CN="Mohasin Miah";RSVP=TRUE:mailto:mohasin@altersense.com
+ATTENDEE;CN=andalib@altersense.com;RSVP=TRUE:mailto:andalib@altersense.com
+ATTENDEE;CN="Ferdous Bin Ali Hriday";RSVP=TRUE:mailto:ferdous@altersense.co
+	m
+ATTENDEE;CN="Rafiqul Islam";RSVP=TRUE:mailto:Rafiqul@altersense.com
+ATTENDEE;CN=shazzadul@altersense.com;RSVP=TRUE:mailto:shazzadul@altersense.
+	com
+ATTENDEE;CN=rahul@altersense.com;RSVP=TRUE:mailto:rahul@altersense.com
+ATTENDEE;CN=lamia@altersense.com;RSVP=TRUE:mailto:lamia@altersense.com
+ATTENDEE;CN="Atiq Rahman";RSVP=TRUE:mailto:atiq@altersense.com
+ATTENDEE;CN=ismatjahanantara75@gmail.com;RSVP=TRUE:mailto:ismatjahanantara7
+	5@gmail.com
+ATTENDEE;CN="Abdul Waresh";RSVP=TRUE:mailto:waresh.baki@altersense.com
+ATTENDEE;CN=saif@altersense.com;RSVP=TRUE:mailto:saif@altersense.com
+ATTENDEE;CN="Danial Azad";RSVP=TRUE:mailto:danial@altersense.com
+ATTENDEE;CN=babu@altersense.com;RSVP=TRUE:mailto:babu@altersense.com
+ATTENDEE;CN=sijan.jim@altersense.com;RSVP=TRUE:mailto:sijan.jim@altersense.
+	com
+ATTENDEE;CN=obaidur@altersense.com;RSVP=TRUE:mailto:obaidur@altersense.com
+ATTENDEE;CN=jeemaoo1998@gmail.com;RSVP=TRUE:mailto:jeemaoo1998@gmail.com
+ATTENDEE;CN=muniyakhantf@gmail.com;RSVP=TRUE:mailto:muniyakhantf@gmail.com
+CLASS:PUBLIC
+CREATED:20211130T051414Z
+DESCRIPTION:Topic TBD\n\n
+DTEND;TZID="Bangladesh Standard Time":20211202T190000
+DTSTAMP:20211130T051414Z
+DTSTART;TZID="Bangladesh Standard Time":20211202T170000
+LAST-MODIFIED:20211130T051414Z
+LOCATION:AlterSense Limited: 339/B Tejgaon I/A (Level 5)\, Dhaka 1208\, Ban
+	gladesh
+ORGANIZER;CN="Sabah Sarika":mailto:sabah@altersense.com
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=30;BYDAY=TH
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Weekly Calendar HOLD: Knowledge Sharing Session
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000A03ED6831CE5D701000000000000000
+	01000000033E7F1CF96631649864CE676BACF1A85
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Definition
+	s */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 
+	3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 
+	2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.MsoNorma
+	l\n	{margin:0in\;\n	margin-bottom:.0001pt\;\n	font-size:11.0pt\;\n	font-fa
+	mily:"Calibri"\,sans-serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-pri
+	ority:99\;\n	color:#0563C1\;\n	text-decoration:underline\;}\na:visited\, s
+	pan.MsoHyperlinkFollowed\n	{mso-style-priority:99\;\n	color:#954F72\;\n	te
+	xt-decoration:underline\;}\np.msonormal0\, li.msonormal0\, div.msonormal0\
+	n	{mso-style-name:msonormal\;\n	mso-margin-top-alt:auto\;\n	margin-right:0
+	in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-size:11.0pt
+	\;\n	font-family:"Calibri"\,sans-serif\;}\nspan.EmailStyle18\n	{mso-style-
+	type:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:wind
+	owtext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-size:10.0
+	pt\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0in 1.0in 1.0i
+	n 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></style><!--[if g
+	te mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" />\n</xml><!
+	[endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap
+	 v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--></head><body 
+	lang=EN-US link="#0563C1" vlink="#954F72"><div class=WordSection1><p class
+	=MsoNormal>Topic TBD<o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

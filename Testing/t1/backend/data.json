@@ -1,0 +1,602 @@
+[
+    {
+        "total_time": 4249,
+        "activity_id": 2,
+        "worker_id": 468,
+        "created_at": "2022-03-16 10:29:17"
+    },
+    {
+        "total_time": 2459,
+        "activity_id": 3,
+        "worker_id": 467,
+        "created_at": "2022-03-16 18:14:08"
+    },
+    {
+        "total_time": 4236,
+        "activity_id": 2,
+        "worker_id": 467,
+        "created_at": "2022-03-16 11:41:35"
+    },
+    {
+        "total_time": 3625,
+        "activity_id": 4,
+        "worker_id": 462,
+        "created_at": "2022-03-16 12:32:00"
+    },
+    {
+        "total_time": 4969,
+        "activity_id": 2,
+        "worker_id": 464,
+        "created_at": "2022-03-16 13:18:56"
+    },
+    {
+        "total_time": 2475,
+        "activity_id": 1,
+        "worker_id": 463,
+        "created_at": "2022-03-16 17:12:17"
+    },
+    {
+        "total_time": 4604,
+        "activity_id": 4,
+        "worker_id": 460,
+        "created_at": "2022-03-16 10:10:39"
+    },
+    {
+        "total_time": 4408,
+        "activity_id": 3,
+        "worker_id": 461,
+        "created_at": "2022-03-16 15:21:18"
+    },
+    {
+        "total_time": 4128,
+        "activity_id": 4,
+        "worker_id": 468,
+        "created_at": "2022-03-16 09:38:35"
+    },
+    {
+        "total_time": 2348,
+        "activity_id": 3,
+        "worker_id": 464,
+        "created_at": "2022-03-16 16:13:52"
+    },
+    {
+        "total_time": 3932,
+        "activity_id": 4,
+        "worker_id": 460,
+        "created_at": "2022-03-16 08:23:30"
+    },
+    {
+        "total_time": 2413,
+        "activity_id": 2,
+        "worker_id": 459,
+        "created_at": "2022-03-16 08:13:20"
+    },
+    {
+        "total_time": 4988,
+        "activity_id": 1,
+        "worker_id": 460,
+        "created_at": "2022-03-16 08:07:22"
+    },
+    {
+        "total_time": 3608,
+        "activity_id": 4,
+        "worker_id": 459,
+        "created_at": "2022-03-16 16:33:12"
+    },
+    {
+        "total_time": 4375,
+        "activity_id": 2,
+        "worker_id": 461,
+        "created_at": "2022-03-16 11:38:52"
+    },
+    {
+        "total_time": 2988,
+        "activity_id": 3,
+        "worker_id": 466,
+        "created_at": "2022-03-16 17:09:57"
+    },
+    {
+        "total_time": 2818,
+        "activity_id": 5,
+        "worker_id": 465,
+        "created_at": "2022-03-16 17:47:19"
+    },
+    {
+        "total_time": 2178,
+        "activity_id": 4,
+        "worker_id": 466,
+        "created_at": "2022-03-16 11:26:33"
+    },
+    {
+        "total_time": 4229,
+        "activity_id": 4,
+        "worker_id": 464,
+        "created_at": "2022-03-16 13:26:08"
+    },
+    {
+        "total_time": 2482,
+        "activity_id": 5,
+        "worker_id": 460,
+        "created_at": "2022-03-16 13:40:01"
+    },
+    {
+        "total_time": 3753,
+        "activity_id": 2,
+        "worker_id": 466,
+        "created_at": "2022-03-16 16:24:35"
+    },
+    {
+        "total_time": 2606,
+        "activity_id": 4,
+        "worker_id": 465,
+        "created_at": "2022-03-16 14:35:27"
+    },
+    {
+        "total_time": 3740,
+        "activity_id": 5,
+        "worker_id": 461,
+        "created_at": "2022-03-16 13:43:53"
+    },
+    {
+        "total_time": 2490,
+        "activity_id": 4,
+        "worker_id": 468,
+        "created_at": "2022-03-16 16:54:50"
+    },
+    {
+        "total_time": 2714,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 14:17:40"
+    },
+    {
+        "total_time": 4648,
+        "activity_id": 3,
+        "worker_id": 467,
+        "created_at": "2022-03-16 17:06:21"
+    },
+    {
+        "total_time": 4831,
+        "activity_id": 4,
+        "worker_id": 463,
+        "created_at": "2022-03-16 15:51:42"
+    },
+    {
+        "total_time": 4423,
+        "activity_id": 3,
+        "worker_id": 463,
+        "created_at": "2022-03-16 18:43:44"
+    },
+    {
+        "total_time": 4688,
+        "activity_id": 3,
+        "worker_id": 459,
+        "created_at": "2022-03-16 13:33:25"
+    },
+    {
+        "total_time": 2814,
+        "activity_id": 3,
+        "worker_id": 461,
+        "created_at": "2022-03-16 10:21:22"
+    },
+    {
+        "total_time": 2844,
+        "activity_id": 5,
+        "worker_id": 459,
+        "created_at": "2022-03-16 15:42:28"
+    },
+    {
+        "total_time": 3099,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 11:03:36"
+    },
+    {
+        "total_time": 3516,
+        "activity_id": 3,
+        "worker_id": 459,
+        "created_at": "2022-03-16 17:01:00"
+    },
+    {
+        "total_time": 3270,
+        "activity_id": 2,
+        "worker_id": 458,
+        "created_at": "2022-03-16 10:02:03"
+    },
+    {
+        "total_time": 3393,
+        "activity_id": 5,
+        "worker_id": 466,
+        "created_at": "2022-03-16 18:06:32"
+    },
+    {
+        "total_time": 2288,
+        "activity_id": 3,
+        "worker_id": 464,
+        "created_at": "2022-03-16 16:20:40"
+    },
+    {
+        "total_time": 3420,
+        "activity_id": 1,
+        "worker_id": 459,
+        "created_at": "2022-03-16 10:05:30"
+    },
+    {
+        "total_time": 4299,
+        "activity_id": 2,
+        "worker_id": 467,
+        "created_at": "2022-03-16 18:18:51"
+    },
+    {
+        "total_time": 3462,
+        "activity_id": 2,
+        "worker_id": 465,
+        "created_at": "2022-03-16 15:09:25"
+    },
+    {
+        "total_time": 2028,
+        "activity_id": 3,
+        "worker_id": 466,
+        "created_at": "2022-03-16 10:53:01"
+    },
+    {
+        "total_time": 2031,
+        "activity_id": 4,
+        "worker_id": 467,
+        "created_at": "2022-03-16 10:35:57"
+    },
+    {
+        "total_time": 3024,
+        "activity_id": 3,
+        "worker_id": 467,
+        "created_at": "2022-03-16 18:22:43"
+    },
+    {
+        "total_time": 4042,
+        "activity_id": 3,
+        "worker_id": 459,
+        "created_at": "2022-03-16 17:55:48"
+    },
+    {
+        "total_time": 4519,
+        "activity_id": 3,
+        "worker_id": 466,
+        "created_at": "2022-03-16 18:22:40"
+    },
+    {
+        "total_time": 4007,
+        "activity_id": 3,
+        "worker_id": 464,
+        "created_at": "2022-03-16 12:01:21"
+    },
+    {
+        "total_time": 4055,
+        "activity_id": 2,
+        "worker_id": 465,
+        "created_at": "2022-03-16 10:01:16"
+    },
+    {
+        "total_time": 2449,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 18:16:05"
+    },
+    {
+        "total_time": 4749,
+        "activity_id": 4,
+        "worker_id": 458,
+        "created_at": "2022-03-16 10:41:21"
+    },
+    {
+        "total_time": 3545,
+        "activity_id": 2,
+        "worker_id": 466,
+        "created_at": "2022-03-16 11:48:44"
+    },
+    {
+        "total_time": 4889,
+        "activity_id": 1,
+        "worker_id": 465,
+        "created_at": "2022-03-16 12:46:49"
+    },
+    {
+        "total_time": 3700,
+        "activity_id": 3,
+        "worker_id": 466,
+        "created_at": "2022-03-16 18:33:21"
+    },
+    {
+        "total_time": 3194,
+        "activity_id": 2,
+        "worker_id": 462,
+        "created_at": "2022-03-16 11:01:26"
+    },
+    {
+        "total_time": 2900,
+        "activity_id": 2,
+        "worker_id": 465,
+        "created_at": "2022-03-16 11:20:34"
+    },
+    {
+        "total_time": 3760,
+        "activity_id": 2,
+        "worker_id": 466,
+        "created_at": "2022-03-16 12:43:41"
+    },
+    {
+        "total_time": 3165,
+        "activity_id": 3,
+        "worker_id": 458,
+        "created_at": "2022-03-16 12:14:09"
+    },
+    {
+        "total_time": 2944,
+        "activity_id": 3,
+        "worker_id": 463,
+        "created_at": "2022-03-16 08:34:38"
+    },
+    {
+        "total_time": 4894,
+        "activity_id": 2,
+        "worker_id": 463,
+        "created_at": "2022-03-16 08:25:10"
+    },
+    {
+        "total_time": 3087,
+        "activity_id": 5,
+        "worker_id": 466,
+        "created_at": "2022-03-16 13:20:10"
+    },
+    {
+        "total_time": 2077,
+        "activity_id": 4,
+        "worker_id": 465,
+        "created_at": "2022-03-16 10:07:55"
+    },
+    {
+        "total_time": 2891,
+        "activity_id": 5,
+        "worker_id": 466,
+        "created_at": "2022-03-16 17:22:47"
+    },
+    {
+        "total_time": 4009,
+        "activity_id": 3,
+        "worker_id": 459,
+        "created_at": "2022-03-16 12:19:57"
+    },
+    {
+        "total_time": 2776,
+        "activity_id": 5,
+        "worker_id": 465,
+        "created_at": "2022-03-16 09:51:49"
+    },
+    {
+        "total_time": 3114,
+        "activity_id": 3,
+        "worker_id": 467,
+        "created_at": "2022-03-16 11:59:38"
+    },
+    {
+        "total_time": 2423,
+        "activity_id": 2,
+        "worker_id": 462,
+        "created_at": "2022-03-16 14:57:43"
+    },
+    {
+        "total_time": 4125,
+        "activity_id": 4,
+        "worker_id": 462,
+        "created_at": "2022-03-16 08:12:10"
+    },
+    {
+        "total_time": 3352,
+        "activity_id": 3,
+        "worker_id": 458,
+        "created_at": "2022-03-16 10:39:36"
+    },
+    {
+        "total_time": 2603,
+        "activity_id": 3,
+        "worker_id": 463,
+        "created_at": "2022-03-16 18:05:05"
+    },
+    {
+        "total_time": 2019,
+        "activity_id": 4,
+        "worker_id": 468,
+        "created_at": "2022-03-16 16:20:53"
+    },
+    {
+        "total_time": 3454,
+        "activity_id": 4,
+        "worker_id": 468,
+        "created_at": "2022-03-16 13:48:56"
+    },
+    {
+        "total_time": 2296,
+        "activity_id": 4,
+        "worker_id": 468,
+        "created_at": "2022-03-16 18:31:21"
+    },
+    {
+        "total_time": 3568,
+        "activity_id": 5,
+        "worker_id": 468,
+        "created_at": "2022-03-16 10:16:51"
+    },
+    {
+        "total_time": 4216,
+        "activity_id": 5,
+        "worker_id": 462,
+        "created_at": "2022-03-16 17:53:30"
+    },
+    {
+        "total_time": 4878,
+        "activity_id": 5,
+        "worker_id": 460,
+        "created_at": "2022-03-16 14:54:47"
+    },
+    {
+        "total_time": 2078,
+        "activity_id": 2,
+        "worker_id": 461,
+        "created_at": "2022-03-16 12:01:09"
+    },
+    {
+        "total_time": 4955,
+        "activity_id": 1,
+        "worker_id": 463,
+        "created_at": "2022-03-16 12:03:53"
+    },
+    {
+        "total_time": 3654,
+        "activity_id": 3,
+        "worker_id": 462,
+        "created_at": "2022-03-16 18:56:27"
+    },
+    {
+        "total_time": 3579,
+        "activity_id": 5,
+        "worker_id": 459,
+        "created_at": "2022-03-16 15:09:28"
+    },
+    {
+        "total_time": 2031,
+        "activity_id": 4,
+        "worker_id": 466,
+        "created_at": "2022-03-16 18:26:48"
+    },
+    {
+        "total_time": 2599,
+        "activity_id": 4,
+        "worker_id": 459,
+        "created_at": "2022-03-16 14:21:11"
+    },
+    {
+        "total_time": 4902,
+        "activity_id": 1,
+        "worker_id": 465,
+        "created_at": "2022-03-16 13:44:38"
+    },
+    {
+        "total_time": 3303,
+        "activity_id": 2,
+        "worker_id": 462,
+        "created_at": "2022-03-16 09:28:24"
+    },
+    {
+        "total_time": 3752,
+        "activity_id": 1,
+        "worker_id": 464,
+        "created_at": "2022-03-16 14:14:45"
+    },
+    {
+        "total_time": 3627,
+        "activity_id": 3,
+        "worker_id": 465,
+        "created_at": "2022-03-16 08:25:18"
+    },
+    {
+        "total_time": 4618,
+        "activity_id": 4,
+        "worker_id": 465,
+        "created_at": "2022-03-16 11:49:50"
+    },
+    {
+        "total_time": 3160,
+        "activity_id": 3,
+        "worker_id": 458,
+        "created_at": "2022-03-16 17:06:30"
+    },
+    {
+        "total_time": 3411,
+        "activity_id": 4,
+        "worker_id": 459,
+        "created_at": "2022-03-16 11:30:32"
+    },
+    {
+        "total_time": 4505,
+        "activity_id": 3,
+        "worker_id": 464,
+        "created_at": "2022-03-16 17:51:25"
+    },
+    {
+        "total_time": 2126,
+        "activity_id": 1,
+        "worker_id": 465,
+        "created_at": "2022-03-16 09:22:30"
+    },
+    {
+        "total_time": 2968,
+        "activity_id": 3,
+        "worker_id": 466,
+        "created_at": "2022-03-16 11:13:36"
+    },
+    {
+        "total_time": 3388,
+        "activity_id": 4,
+        "worker_id": 463,
+        "created_at": "2022-03-16 12:23:20"
+    },
+    {
+        "total_time": 2053,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 15:55:31"
+    },
+    {
+        "total_time": 2302,
+        "activity_id": 5,
+        "worker_id": 461,
+        "created_at": "2022-03-16 15:10:11"
+    },
+    {
+        "total_time": 2276,
+        "activity_id": 4,
+        "worker_id": 460,
+        "created_at": "2022-03-16 12:41:12"
+    },
+    {
+        "total_time": 2467,
+        "activity_id": 3,
+        "worker_id": 460,
+        "created_at": "2022-03-16 16:56:14"
+    },
+    {
+        "total_time": 2714,
+        "activity_id": 3,
+        "worker_id": 460,
+        "created_at": "2022-03-16 08:25:36"
+    },
+    {
+        "total_time": 3264,
+        "activity_id": 3,
+        "worker_id": 460,
+        "created_at": "2022-03-16 10:46:56"
+    },
+    {
+        "total_time": 3776,
+        "activity_id": 4,
+        "worker_id": 458,
+        "created_at": "2022-03-16 18:51:10"
+    },
+    {
+        "total_time": 3948,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 16:26:10"
+    },
+    {
+        "total_time": 4279,
+        "activity_id": 2,
+        "worker_id": 460,
+        "created_at": "2022-03-16 11:40:37"
+    },
+    {
+        "total_time": 2835,
+        "activity_id": 5,
+        "worker_id": 467,
+        "created_at": "2022-03-16 16:05:18"
+    }
+]

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <input type="number" id="username" pattern="[0-9]">
+
+    <script>
+    var input = document.getElementById('username');
+
+    input.addEventListener('input', function(event){
+        console.log(input.validity.valid);
+    });
+    </script>
+
+</body>
+</html>

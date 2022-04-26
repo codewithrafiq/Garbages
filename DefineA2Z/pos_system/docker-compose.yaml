@@ -1,0 +1,6 @@
+version: '3'
+services:
+  djangorun:
+    image: pos:1.0
+    ports:
+      - "8000:8000"

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% load static %}
+    {% load leaflet_tags %}
+    <head>
+        {% leaflet_js %}
+        {% leaflet_css %}
+        <title>Document</title>
+        <style>
+            #map {
+                height: 600px;
+                width: 70%;
+            }
+            </style>
+    <link rel="stylesheet" href="{% static 'leaflet.groupedlayercontrol.css' %}">
+</head>
+<body>
+    {% leaflet_map 'map' callback="window.our_layers" %}
+
+
+    <script src="{% static "leaflet.ajax.js" %}"></script>
+    <script src="{% static "leaflet.groupedlayercontrol.js" %}"></script>
+    <script>
+        function our_layers(map,options){
+
+            var osmUrl='http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+
+            var country_datasets = new L.GeoJSON.AJAX("{% url 'country' %}",{
+                style: function(feature){
+                    switch(feature.properties.name){
+                        case "Bangladesh":
+                            return {
+                                color: "#ff0000",
+                                    weight: 2,
+                                    fillColor: "#ff0000",
+                                    fillOpacity: 0.5
+                                };
+                        case "Nepal":
+                            return {color: "#ff0000"};
+                        case "India":
+                            return {color: "#0000ff"};
+                        case "China":
+                            return {color: "#00ff00"};
+                        case "Pakistan":
+                            return {color: "#ff0000"};
+                        case "Sri Lanka":
+                            return {color: "#ff0000"};
+                        case "Myanmar":
+                            return {color: "#ff0000"};
+                        brack;
+                    }
+                },
+                onEachFeature: function(feature,layer){
+                    layer.bindPopup(feature.properties.name.toString());
+                }
+            });
+            var location_datasets = new L.GeoJSON.AJAX("{% url 'location' %}",{
+                onEachFeature: function(feature,layer){
+                    layer.bindPopup(feature.properties.name.toString());
+                }
+            });
+            var district_datasets = new L.GeoJSON.AJAX("{% url 'district' %}",{
+                onEachFeature: function(feature,layer){
+                    layer.bindPopup(feature.properties.adm1_en.toString());
+                }
+            });
+
+            country_datasets.addTo(map);
+            location_datasets.addTo(map);
+            district_datasets.addTo(map);
+
+            var baseLayers = {
+                "osmUrl":osmUrl
+            };
+            var groupedOverLays = {
+                "layers":{
+                    "Country":country_datasets,
+                    "Location":location_datasets,
+                    "District":district_datasets
+                }
+            };
+            L.control.groupedLayers(baseLayers,groupedOverLays).addTo(map);
+        }
+    </script>
+    
+</body>
+</html>
